@@ -2,7 +2,7 @@ Alana's Profile Page
 # profile
 Love python woohoo
 
-(here)[/admins/meetings.md]
+[here](/admin/meetings.md)
 
 \
 (\*) gjhj
